@@ -1,0 +1,496 @@
+Archive member included to satisfy reference by file (symbol)
+
+c:/progra~2/gnutoo~1/92019-~1/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libg.a(lib_a-exit.o)
+                              c:/progra~2/gnutoo~1/92019-~1/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp/crt0.o (exit)
+c:/progra~2/gnutoo~1/92019-~1/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libg.a(lib_a-impure.o)
+                              c:/progra~2/gnutoo~1/92019-~1/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libg.a(lib_a-exit.o) (_global_impure_ptr)
+c:/progra~2/gnutoo~1/92019-~1/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libg.a(lib_a-init.o)
+                              c:/progra~2/gnutoo~1/92019-~1/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp/crt0.o (__libc_init_array)
+c:/progra~2/gnutoo~1/92019-~1/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libg.a(lib_a-memset.o)
+                              c:/progra~2/gnutoo~1/92019-~1/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp/crt0.o (memset)
+c:/progra~2/gnutoo~1/92019-~1/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libg.a(lib_a-__call_atexit.o)
+                              c:/progra~2/gnutoo~1/92019-~1/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libg.a(lib_a-exit.o) (__call_exitprocs)
+c:/progra~2/gnutoo~1/92019-~1/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libg.a(lib_a-atexit.o)
+                              c:/progra~2/gnutoo~1/92019-~1/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libg.a(lib_a-__call_atexit.o) (atexit)
+c:/progra~2/gnutoo~1/92019-~1/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libg.a(lib_a-fini.o)
+                              c:/progra~2/gnutoo~1/92019-~1/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libg.a(lib_a-__call_atexit.o) (__libc_fini_array)
+c:/progra~2/gnutoo~1/92019-~1/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libg.a(lib_a-lock.o)
+                              c:/progra~2/gnutoo~1/92019-~1/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libg.a(lib_a-__call_atexit.o) (__retarget_lock_acquire_recursive)
+c:/progra~2/gnutoo~1/92019-~1/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libg.a(lib_a-__atexit.o)
+                              c:/progra~2/gnutoo~1/92019-~1/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libg.a(lib_a-atexit.o) (__register_exitproc)
+c:/progra~2/gnutoo~1/92019-~1/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libnosys.a(_exit.o)
+                              c:/progra~2/gnutoo~1/92019-~1/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libg.a(lib_a-exit.o) (_exit)
+
+Allocating common symbols
+Common symbol       size              file
+
+__lock___atexit_recursive_mutex
+                    0x1               c:/progra~2/gnutoo~1/92019-~1/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libg.a(lib_a-lock.o)
+__lock___arc4random_mutex
+                    0x1               c:/progra~2/gnutoo~1/92019-~1/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libg.a(lib_a-lock.o)
+__lock___env_recursive_mutex
+                    0x1               c:/progra~2/gnutoo~1/92019-~1/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libg.a(lib_a-lock.o)
+__lock___sinit_recursive_mutex
+                    0x1               c:/progra~2/gnutoo~1/92019-~1/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libg.a(lib_a-lock.o)
+__lock___malloc_recursive_mutex
+                    0x1               c:/progra~2/gnutoo~1/92019-~1/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libg.a(lib_a-lock.o)
+__lock___at_quick_exit_mutex
+                    0x1               c:/progra~2/gnutoo~1/92019-~1/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libg.a(lib_a-lock.o)
+__lock___dd_hash_mutex
+                    0x1               c:/progra~2/gnutoo~1/92019-~1/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libg.a(lib_a-lock.o)
+__lock___tz_mutex   0x1               c:/progra~2/gnutoo~1/92019-~1/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libg.a(lib_a-lock.o)
+__lock___sfp_recursive_mutex
+                    0x1               c:/progra~2/gnutoo~1/92019-~1/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libg.a(lib_a-lock.o)
+
+Memory Configuration
+
+Name             Origin             Length             Attributes
+FLASH            0x08000000         0x00100000         xr
+SRAM             0x20000000         0x00020000         xrw
+*default*        0x00000000         0xffffffff
+
+Linker script and memory map
+
+LOAD c:/progra~2/gnutoo~1/92019-~1/bin/../lib/gcc/arm-none-eabi/9.2.1/thumb/v7e-m/nofp/crti.o
+LOAD c:/progra~2/gnutoo~1/92019-~1/bin/../lib/gcc/arm-none-eabi/9.2.1/thumb/v7e-m/nofp/crtbegin.o
+LOAD c:/progra~2/gnutoo~1/92019-~1/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp/crt0.o
+LOAD CMakeFiles/mcu1-led-toggle.elf.dir/drivers/Src/stm32f407xx_gpio_driver.c.obj
+LOAD CMakeFiles/mcu1-led-toggle.elf.dir/drivers/Src/stm32f407xx_spi_driver.c.obj
+LOAD CMakeFiles/mcu1-led-toggle.elf.dir/Src/002led_button.c.obj
+LOAD CMakeFiles/mcu1-led-toggle.elf.dir/stm32_startup.c.obj
+START GROUP
+LOAD c:/progra~2/gnutoo~1/92019-~1/bin/../lib/gcc/arm-none-eabi/9.2.1/thumb/v7e-m/nofp\libgcc.a
+LOAD c:/progra~2/gnutoo~1/92019-~1/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libg.a
+LOAD c:/progra~2/gnutoo~1/92019-~1/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libc.a
+END GROUP
+START GROUP
+LOAD c:/progra~2/gnutoo~1/92019-~1/bin/../lib/gcc/arm-none-eabi/9.2.1/thumb/v7e-m/nofp\libgcc.a
+LOAD c:/progra~2/gnutoo~1/92019-~1/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libc.a
+LOAD c:/progra~2/gnutoo~1/92019-~1/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libnosys.a
+END GROUP
+LOAD c:/progra~2/gnutoo~1/92019-~1/bin/../lib/gcc/arm-none-eabi/9.2.1/thumb/v7e-m/nofp/crtend.o
+LOAD c:/progra~2/gnutoo~1/92019-~1/bin/../lib/gcc/arm-none-eabi/9.2.1/thumb/v7e-m/nofp/crtn.o
+
+.text           0x08000000      0xb44
+ *(.isr_vector)
+ .isr_vector    0x08000000      0x188 CMakeFiles/mcu1-led-toggle.elf.dir/stm32_startup.c.obj
+                0x08000000                vectors
+ *(.text)
+ .text          0x08000188        0x0 c:/progra~2/gnutoo~1/92019-~1/bin/../lib/gcc/arm-none-eabi/9.2.1/thumb/v7e-m/nofp/crti.o
+ .text          0x08000188       0x40 c:/progra~2/gnutoo~1/92019-~1/bin/../lib/gcc/arm-none-eabi/9.2.1/thumb/v7e-m/nofp/crtbegin.o
+ .text          0x080001c8       0x74 c:/progra~2/gnutoo~1/92019-~1/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp/crt0.o
+                0x080001c8                _start
+                0x080001c8                _mainCRTStartup
+ .text          0x0800023c      0x538 CMakeFiles/mcu1-led-toggle.elf.dir/drivers/Src/stm32f407xx_gpio_driver.c.obj
+                0x0800023c                GPIO_PeriClockControl
+                0x080003b0                GPIO_Init
+                0x0800051c                GPIO_DeInit
+                0x08000640                GPIO_ReadFromInputPin
+                0x0800064a                GPIO_ReadFromInputPort
+                0x08000650                GPIO_WriteToOutputPin
+                0x08000670                GPIO_WriteToOutputPort
+                0x08000674                GPIO_ToggleOutputPin
+                0x08000680                GPIO_IRQInterruptConfig
+                0x08000738                GPIO_IRQPriorityConfig
+                0x08000758                GPIO_IRQHandling
+ .text          0x08000774        0x0 CMakeFiles/mcu1-led-toggle.elf.dir/drivers/Src/stm32f407xx_spi_driver.c.obj
+ .text          0x08000774       0x90 CMakeFiles/mcu1-led-toggle.elf.dir/Src/002led_button.c.obj
+                0x08000774                delay
+                0x08000788                main
+ .text          0x08000804       0x54 CMakeFiles/mcu1-led-toggle.elf.dir/stm32_startup.c.obj
+                0x08000804                RTC_Alarm_IRQHandler
+                0x08000804                HASH_RNG_IRQHandler
+                0x08000804                EXTI2_IRQHandler
+                0x08000804                TIM8_CC_IRQHandler
+                0x08000804                DebugMon_Handler
+                0x08000804                TIM1_CC_IRQHandler
+                0x08000804                DMA2_Stream5_IRQHandler
+                0x08000804                HardFault_Handler
+                0x08000804                DMA1_Stream5_IRQHandler
+                0x08000804                SysTick_Handler
+                0x08000804                PVD_IRQHandler
+                0x08000804                SDIO_IRQHandler
+                0x08000804                TAMP_STAMP_IRQHandler
+                0x08000804                PendSV_Handler
+                0x08000804                NMI_Handler
+                0x08000804                CAN2_RX1_IRQHandler
+                0x08000804                EXTI3_IRQHandler
+                0x08000804                TIM8_TRG_COM_TIM14_IRQHandler
+                0x08000804                TIM1_UP_TIM10_IRQHandler
+                0x08000804                TIM8_UP_TIM13_IRQHandler
+                0x08000804                I2C3_ER_IRQHandler
+                0x08000804                EXTI0_IRQHandler
+                0x08000804                I2C2_EV_IRQHandler
+                0x08000804                DMA1_Stream2_IRQHandler
+                0x08000804                CAN1_RX0_IRQHandler
+                0x08000804                FPU_IRQHandler
+                0x08000804                OTG_HS_WKUP_IRQHandler
+                0x08000804                UsageFault_Handler
+                0x08000804                CAN2_SCE_IRQHandler
+                0x08000804                DMA2_Stream2_IRQHandler
+                0x08000804                SPI1_IRQHandler
+                0x08000804                TIM6_DAC_IRQHandler
+                0x08000804                TIM1_BRK_TIM9_IRQHandler
+                0x08000804                DCMI_IRQHandler
+                0x08000804                CAN2_RX0_IRQHandler
+                0x08000804                DMA2_Stream3_IRQHandler
+                0x08000804                USART6_IRQHandler
+                0x08000804                USART3_IRQHandler
+                0x08000804                CRYP_IRQHandler
+                0x08000804                DMA2_Stream6_IRQHandler
+                0x08000804                CAN1_RX1_IRQHandler
+                0x08000804                UART5_IRQHandler
+                0x08000804                DMA2_Stream0_IRQHandler
+                0x08000804                TIM4_IRQHandler
+                0x08000804                I2C1_EV_IRQHandler
+                0x08000804                DMA1_Stream6_IRQHandler
+                0x08000804                DMA1_Stream1_IRQHandler
+                0x08000804                UART4_IRQHandler
+                0x08000804                TIM3_IRQHandler
+                0x08000804                RCC_IRQHandler
+                0x08000804                TIM8_BRK_TIM12_IRQHandler
+                0x08000804                Default_Handler
+                0x08000804                EXTI15_10_IRQHandler
+                0x08000804                ADC_IRQHandler
+                0x08000804                DMA1_Stream7_IRQHandler
+                0x08000804                TIM7_IRQHandler
+                0x08000804                CAN2_TX_IRQHandler
+                0x08000804                TIM5_IRQHandler
+                0x08000804                DMA2_Stream7_IRQHandler
+                0x08000804                I2C3_EV_IRQHandler
+                0x08000804                EXTI9_5_IRQHandler
+                0x08000804                RTC_WKUP_IRQHandler
+                0x08000804                ETH_WKUP_IRQHandler
+                0x08000804                SPI2_IRQHandler
+                0x08000804                OTG_HS_EP1_IN_IRQHandler
+                0x08000804                MemManage_Handler
+                0x08000804                DMA1_Stream0_IRQHandler
+                0x08000804                CAN1_TX_IRQHandler
+                0x08000804                SVC_Handler
+                0x08000804                EXTI4_IRQHandler
+                0x08000804                FSMC_IRQHandler
+                0x08000804                ETH_IRQHandler
+                0x08000804                OTG_HS_EP1_OUT_IRQHandler
+                0x08000804                WWDG_IRQHandler
+                0x08000804                TIM2_IRQHandler
+                0x08000804                OTG_FS_WKUP_IRQHandler
+                0x08000804                TIM1_TRG_COM_TIM11_IRQHandler
+                0x08000804                OTG_HS_IRQHandler
+                0x08000804                EXTI1_IRQHandler
+                0x08000804                USART2_IRQHandler
+                0x08000804                I2C2_ER_IRQHandler
+                0x08000804                DMA2_Stream1_IRQHandler
+                0x08000804                CAN1_SCE_IRQHandler
+                0x08000804                DMA2_Stream4_IRQHandler
+                0x08000804                BusFault_Handler
+                0x08000804                USART1_IRQHandler
+                0x08000804                OTG_FS_IRQHandler
+                0x08000804                SPI3_IRQHandler
+                0x08000804                DMA1_Stream4_IRQHandler
+                0x08000804                I2C1_ER_IRQHandler
+                0x08000804                DMA1_Stream3_IRQHandler
+                0x08000806                Reset_Handler
+ .text          0x08000858        0x0 c:/progra~2/gnutoo~1/92019-~1/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libg.a(lib_a-exit.o)
+ .text          0x08000858        0x0 c:/progra~2/gnutoo~1/92019-~1/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libg.a(lib_a-impure.o)
+ .text          0x08000858        0x0 c:/progra~2/gnutoo~1/92019-~1/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libg.a(lib_a-init.o)
+ .text          0x08000858        0x0 c:/progra~2/gnutoo~1/92019-~1/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libg.a(lib_a-memset.o)
+ .text          0x08000858        0x0 c:/progra~2/gnutoo~1/92019-~1/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libg.a(lib_a-__call_atexit.o)
+ .text          0x08000858        0x0 c:/progra~2/gnutoo~1/92019-~1/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libg.a(lib_a-atexit.o)
+ .text          0x08000858        0x0 c:/progra~2/gnutoo~1/92019-~1/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libg.a(lib_a-fini.o)
+ .text          0x08000858        0x0 c:/progra~2/gnutoo~1/92019-~1/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libg.a(lib_a-lock.o)
+ .text          0x08000858        0x0 c:/progra~2/gnutoo~1/92019-~1/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libg.a(lib_a-__atexit.o)
+ .text          0x08000858        0x0 c:/progra~2/gnutoo~1/92019-~1/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libnosys.a(_exit.o)
+ .text          0x08000858        0x0 c:/progra~2/gnutoo~1/92019-~1/bin/../lib/gcc/arm-none-eabi/9.2.1/thumb/v7e-m/nofp/crtend.o
+ .text          0x08000858        0x0 c:/progra~2/gnutoo~1/92019-~1/bin/../lib/gcc/arm-none-eabi/9.2.1/thumb/v7e-m/nofp/crtn.o
+ *(.text.*)
+ .text.exit     0x08000858       0x20 c:/progra~2/gnutoo~1/92019-~1/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libg.a(lib_a-exit.o)
+                0x08000858                exit
+ .text.__libc_init_array
+                0x08000878       0x48 c:/progra~2/gnutoo~1/92019-~1/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libg.a(lib_a-init.o)
+                0x08000878                __libc_init_array
+ .text.memset   0x080008c0       0xa0 c:/progra~2/gnutoo~1/92019-~1/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libg.a(lib_a-memset.o)
+                0x080008c0                memset
+ .text.startup.register_fini
+                0x08000960       0x14 c:/progra~2/gnutoo~1/92019-~1/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libg.a(lib_a-__call_atexit.o)
+ .text.__call_exitprocs
+                0x08000974       0xc4 c:/progra~2/gnutoo~1/92019-~1/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libg.a(lib_a-__call_atexit.o)
+                0x08000974                __call_exitprocs
+ .text.atexit   0x08000a38        0xc c:/progra~2/gnutoo~1/92019-~1/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libg.a(lib_a-atexit.o)
+                0x08000a38                atexit
+ .text.__libc_fini_array
+                0x08000a44       0x2c c:/progra~2/gnutoo~1/92019-~1/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libg.a(lib_a-fini.o)
+                0x08000a44                __libc_fini_array
+ .text.__retarget_lock_init
+                0x08000a70        0x4 c:/progra~2/gnutoo~1/92019-~1/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libg.a(lib_a-lock.o)
+                0x08000a70                __retarget_lock_init
+ .text.__retarget_lock_init_recursive
+                0x08000a74        0x4 c:/progra~2/gnutoo~1/92019-~1/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libg.a(lib_a-lock.o)
+                0x08000a74                __retarget_lock_init_recursive
+ .text.__retarget_lock_close
+                0x08000a78        0x4 c:/progra~2/gnutoo~1/92019-~1/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libg.a(lib_a-lock.o)
+                0x08000a78                __retarget_lock_close
+ .text.__retarget_lock_close_recursive
+                0x08000a7c        0x4 c:/progra~2/gnutoo~1/92019-~1/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libg.a(lib_a-lock.o)
+                0x08000a7c                __retarget_lock_close_recursive
+ .text.__retarget_lock_acquire
+                0x08000a80        0x4 c:/progra~2/gnutoo~1/92019-~1/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libg.a(lib_a-lock.o)
+                0x08000a80                __retarget_lock_acquire
+ .text.__retarget_lock_acquire_recursive
+                0x08000a84        0x4 c:/progra~2/gnutoo~1/92019-~1/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libg.a(lib_a-lock.o)
+                0x08000a84                __retarget_lock_acquire_recursive
+ .text.__retarget_lock_try_acquire
+                0x08000a88        0x4 c:/progra~2/gnutoo~1/92019-~1/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libg.a(lib_a-lock.o)
+                0x08000a88                __retarget_lock_try_acquire
+ .text.__retarget_lock_try_acquire_recursive
+                0x08000a8c        0x4 c:/progra~2/gnutoo~1/92019-~1/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libg.a(lib_a-lock.o)
+                0x08000a8c                __retarget_lock_try_acquire_recursive
+ .text.__retarget_lock_release
+                0x08000a90        0x4 c:/progra~2/gnutoo~1/92019-~1/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libg.a(lib_a-lock.o)
+                0x08000a90                __retarget_lock_release
+ .text.__retarget_lock_release_recursive
+                0x08000a94        0x4 c:/progra~2/gnutoo~1/92019-~1/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libg.a(lib_a-lock.o)
+                0x08000a94                __retarget_lock_release_recursive
+ .text.__register_exitproc
+                0x08000a98       0x8c c:/progra~2/gnutoo~1/92019-~1/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libg.a(lib_a-__atexit.o)
+                0x08000a98                __register_exitproc
+ .text._exit    0x08000b24        0x4 c:/progra~2/gnutoo~1/92019-~1/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libnosys.a(_exit.o)
+                0x08000b24                _exit
+ *(.init)
+ .init          0x08000b28        0x4 c:/progra~2/gnutoo~1/92019-~1/bin/../lib/gcc/arm-none-eabi/9.2.1/thumb/v7e-m/nofp/crti.o
+                0x08000b28                _init
+ .init          0x08000b2c        0x8 c:/progra~2/gnutoo~1/92019-~1/bin/../lib/gcc/arm-none-eabi/9.2.1/thumb/v7e-m/nofp/crtn.o
+ *(.fini)
+ .fini          0x08000b34        0x4 c:/progra~2/gnutoo~1/92019-~1/bin/../lib/gcc/arm-none-eabi/9.2.1/thumb/v7e-m/nofp/crti.o
+                0x08000b34                _fini
+ .fini          0x08000b38        0x8 c:/progra~2/gnutoo~1/92019-~1/bin/../lib/gcc/arm-none-eabi/9.2.1/thumb/v7e-m/nofp/crtn.o
+ *(.rodata)
+ *(.rodata.*)
+ .rodata._global_impure_ptr
+                0x08000b40        0x4 c:/progra~2/gnutoo~1/92019-~1/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libg.a(lib_a-impure.o)
+                0x08000b40                _global_impure_ptr
+                0x08000b44                . = ALIGN (0x4)
+                0x08000b44                _etext = .
+                0x08000b50                _la_data = LOADADDR (.data)
+
+.glue_7         0x08000b44        0x0
+ .glue_7        0x08000b44        0x0 linker stubs
+
+.glue_7t        0x08000b44        0x0
+ .glue_7t       0x08000b44        0x0 linker stubs
+
+.vfp11_veneer   0x08000b44        0x0
+ .vfp11_veneer  0x08000b44        0x0 linker stubs
+
+.v4_bx          0x08000b44        0x0
+ .v4_bx         0x08000b44        0x0 linker stubs
+
+.iplt           0x08000b44        0x0
+ .iplt          0x08000b44        0x0 c:/progra~2/gnutoo~1/92019-~1/bin/../lib/gcc/arm-none-eabi/9.2.1/thumb/v7e-m/nofp/crtbegin.o
+
+.eh_frame       0x08000b44        0x4
+ .eh_frame      0x08000b44        0x0 c:/progra~2/gnutoo~1/92019-~1/bin/../lib/gcc/arm-none-eabi/9.2.1/thumb/v7e-m/nofp/crtbegin.o
+ .eh_frame      0x08000b44        0x4 c:/progra~2/gnutoo~1/92019-~1/bin/../lib/gcc/arm-none-eabi/9.2.1/thumb/v7e-m/nofp/crtend.o
+
+.ARM.extab      0x08000b48        0x0
+ .ARM.extab     0x08000b48        0x0 c:/progra~2/gnutoo~1/92019-~1/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp/crt0.o
+
+.ARM.exidx      0x08000b48        0x8
+ .ARM.exidx     0x08000b48        0x8 c:/progra~2/gnutoo~1/92019-~1/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp/crt0.o
+
+.rel.dyn        0x08000b50        0x0
+ .rel.iplt      0x08000b50        0x0 c:/progra~2/gnutoo~1/92019-~1/bin/../lib/gcc/arm-none-eabi/9.2.1/thumb/v7e-m/nofp/crtbegin.o
+
+.data           0x20000000      0x434 load address 0x08000b50
+                0x20000000                _sdata = .
+ *(.data)
+ .data          0x20000000        0x0 c:/progra~2/gnutoo~1/92019-~1/bin/../lib/gcc/arm-none-eabi/9.2.1/thumb/v7e-m/nofp/crti.o
+ .data          0x20000000        0x4 c:/progra~2/gnutoo~1/92019-~1/bin/../lib/gcc/arm-none-eabi/9.2.1/thumb/v7e-m/nofp/crtbegin.o
+                0x20000000                __dso_handle
+ .data          0x20000004        0x0 c:/progra~2/gnutoo~1/92019-~1/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp/crt0.o
+ .data          0x20000004        0x0 CMakeFiles/mcu1-led-toggle.elf.dir/drivers/Src/stm32f407xx_gpio_driver.c.obj
+ .data          0x20000004        0x0 CMakeFiles/mcu1-led-toggle.elf.dir/drivers/Src/stm32f407xx_spi_driver.c.obj
+ .data          0x20000004        0x0 CMakeFiles/mcu1-led-toggle.elf.dir/Src/002led_button.c.obj
+ .data          0x20000004        0x0 CMakeFiles/mcu1-led-toggle.elf.dir/stm32_startup.c.obj
+ .data          0x20000004        0x0 c:/progra~2/gnutoo~1/92019-~1/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libg.a(lib_a-exit.o)
+ .data          0x20000004        0x0 c:/progra~2/gnutoo~1/92019-~1/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libg.a(lib_a-impure.o)
+ .data          0x20000004        0x0 c:/progra~2/gnutoo~1/92019-~1/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libg.a(lib_a-init.o)
+ .data          0x20000004        0x0 c:/progra~2/gnutoo~1/92019-~1/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libg.a(lib_a-memset.o)
+ .data          0x20000004        0x0 c:/progra~2/gnutoo~1/92019-~1/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libg.a(lib_a-__call_atexit.o)
+ .data          0x20000004        0x0 c:/progra~2/gnutoo~1/92019-~1/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libg.a(lib_a-atexit.o)
+ .data          0x20000004        0x0 c:/progra~2/gnutoo~1/92019-~1/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libg.a(lib_a-fini.o)
+ .data          0x20000004        0x0 c:/progra~2/gnutoo~1/92019-~1/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libg.a(lib_a-lock.o)
+ .data          0x20000004        0x0 c:/progra~2/gnutoo~1/92019-~1/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libg.a(lib_a-__atexit.o)
+ .data          0x20000004        0x0 c:/progra~2/gnutoo~1/92019-~1/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libnosys.a(_exit.o)
+ .data          0x20000004        0x0 c:/progra~2/gnutoo~1/92019-~1/bin/../lib/gcc/arm-none-eabi/9.2.1/thumb/v7e-m/nofp/crtend.o
+ .data          0x20000004        0x0 c:/progra~2/gnutoo~1/92019-~1/bin/../lib/gcc/arm-none-eabi/9.2.1/thumb/v7e-m/nofp/crtn.o
+ *(.data.*)
+ .data._impure_ptr
+                0x20000004        0x4 c:/progra~2/gnutoo~1/92019-~1/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libg.a(lib_a-impure.o)
+                0x20000004                _impure_ptr
+ .data.impure_data
+                0x20000008      0x428 c:/progra~2/gnutoo~1/92019-~1/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libg.a(lib_a-impure.o)
+ .data.__atexit_recursive_mutex
+                0x20000430        0x4 c:/progra~2/gnutoo~1/92019-~1/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libg.a(lib_a-__call_atexit.o)
+                0x20000430                __atexit_recursive_mutex
+                0x20000434                . = ALIGN (0x4)
+                0x20000434                _edata = .
+
+.init_array     0x20000434        0x4 load address 0x08000f84
+ .init_array    0x20000434        0x4 c:/progra~2/gnutoo~1/92019-~1/bin/../lib/gcc/arm-none-eabi/9.2.1/thumb/v7e-m/nofp/crtbegin.o
+
+.fini_array     0x20000438        0x4 load address 0x08000f88
+ .fini_array    0x20000438        0x4 c:/progra~2/gnutoo~1/92019-~1/bin/../lib/gcc/arm-none-eabi/9.2.1/thumb/v7e-m/nofp/crtbegin.o
+
+.igot.plt       0x2000043c        0x0 load address 0x08000f8c
+ .igot.plt      0x2000043c        0x0 c:/progra~2/gnutoo~1/92019-~1/bin/../lib/gcc/arm-none-eabi/9.2.1/thumb/v7e-m/nofp/crtbegin.o
+
+.init_array.00000
+                0x2000043c        0x4 load address 0x08000f8c
+ .init_array.00000
+                0x2000043c        0x4 c:/progra~2/gnutoo~1/92019-~1/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libg.a(lib_a-__call_atexit.o)
+
+.bss            0x20000440       0x3d load address 0x08000f90
+                0x20000440                _sbss = .
+                0x20000440                __bss_start__ = _sbss
+ *(.bss)
+ .bss           0x20000440        0x0 c:/progra~2/gnutoo~1/92019-~1/bin/../lib/gcc/arm-none-eabi/9.2.1/thumb/v7e-m/nofp/crti.o
+ .bss           0x20000440       0x1c c:/progra~2/gnutoo~1/92019-~1/bin/../lib/gcc/arm-none-eabi/9.2.1/thumb/v7e-m/nofp/crtbegin.o
+ .bss           0x2000045c        0x0 c:/progra~2/gnutoo~1/92019-~1/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp/crt0.o
+ .bss           0x2000045c        0x0 CMakeFiles/mcu1-led-toggle.elf.dir/drivers/Src/stm32f407xx_gpio_driver.c.obj
+ .bss           0x2000045c        0x0 CMakeFiles/mcu1-led-toggle.elf.dir/drivers/Src/stm32f407xx_spi_driver.c.obj
+ .bss           0x2000045c        0x0 CMakeFiles/mcu1-led-toggle.elf.dir/Src/002led_button.c.obj
+ .bss           0x2000045c        0x0 CMakeFiles/mcu1-led-toggle.elf.dir/stm32_startup.c.obj
+ .bss           0x2000045c        0x0 c:/progra~2/gnutoo~1/92019-~1/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libg.a(lib_a-exit.o)
+ .bss           0x2000045c        0x0 c:/progra~2/gnutoo~1/92019-~1/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libg.a(lib_a-impure.o)
+ .bss           0x2000045c        0x0 c:/progra~2/gnutoo~1/92019-~1/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libg.a(lib_a-init.o)
+ .bss           0x2000045c        0x0 c:/progra~2/gnutoo~1/92019-~1/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libg.a(lib_a-memset.o)
+ .bss           0x2000045c        0x0 c:/progra~2/gnutoo~1/92019-~1/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libg.a(lib_a-__call_atexit.o)
+ .bss           0x2000045c        0x0 c:/progra~2/gnutoo~1/92019-~1/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libg.a(lib_a-atexit.o)
+ .bss           0x2000045c        0x0 c:/progra~2/gnutoo~1/92019-~1/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libg.a(lib_a-fini.o)
+ .bss           0x2000045c        0x0 c:/progra~2/gnutoo~1/92019-~1/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libg.a(lib_a-lock.o)
+ .bss           0x2000045c        0x0 c:/progra~2/gnutoo~1/92019-~1/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libg.a(lib_a-__atexit.o)
+ .bss           0x2000045c        0x0 c:/progra~2/gnutoo~1/92019-~1/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libnosys.a(_exit.o)
+ .bss           0x2000045c        0x0 c:/progra~2/gnutoo~1/92019-~1/bin/../lib/gcc/arm-none-eabi/9.2.1/thumb/v7e-m/nofp/crtend.o
+ .bss           0x2000045c        0x0 c:/progra~2/gnutoo~1/92019-~1/bin/../lib/gcc/arm-none-eabi/9.2.1/thumb/v7e-m/nofp/crtn.o
+ *(.bss.*)
+                0x2000045c                . = ALIGN (0x4)
+                0x2000045c                _ebss = .
+                0x2000045c                __bss_end__ = _ebss
+                0x2000045c                end = .
+                0x2000045c                __end__ = end
+ COMMON         0x2000045c       0x21 c:/progra~2/gnutoo~1/92019-~1/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libg.a(lib_a-lock.o)
+                0x2000045c                __lock___atexit_recursive_mutex
+                0x20000460                __lock___arc4random_mutex
+                0x20000464                __lock___env_recursive_mutex
+                0x20000468                __lock___sinit_recursive_mutex
+                0x2000046c                __lock___malloc_recursive_mutex
+                0x20000470                __lock___at_quick_exit_mutex
+                0x20000474                __lock___dd_hash_mutex
+                0x20000478                __lock___tz_mutex
+                0x2000047c                __lock___sfp_recursive_mutex
+OUTPUT(mcu1-led-toggle.elf elf32-littlearm)
+
+.ARM.attributes
+                0x00000000       0x2a
+ .ARM.attributes
+                0x00000000       0x1e c:/progra~2/gnutoo~1/92019-~1/bin/../lib/gcc/arm-none-eabi/9.2.1/thumb/v7e-m/nofp/crti.o
+ .ARM.attributes
+                0x0000001e       0x2e c:/progra~2/gnutoo~1/92019-~1/bin/../lib/gcc/arm-none-eabi/9.2.1/thumb/v7e-m/nofp/crtbegin.o
+ .ARM.attributes
+                0x0000004c       0x1c c:/progra~2/gnutoo~1/92019-~1/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp/crt0.o
+ .ARM.attributes
+                0x00000068       0x2e CMakeFiles/mcu1-led-toggle.elf.dir/drivers/Src/stm32f407xx_gpio_driver.c.obj
+ .ARM.attributes
+                0x00000096       0x33 CMakeFiles/mcu1-led-toggle.elf.dir/drivers/Src/stm32f407xx_spi_driver.c.obj
+ .ARM.attributes
+                0x000000c9       0x2e CMakeFiles/mcu1-led-toggle.elf.dir/Src/002led_button.c.obj
+ .ARM.attributes
+                0x000000f7       0x2e CMakeFiles/mcu1-led-toggle.elf.dir/stm32_startup.c.obj
+ .ARM.attributes
+                0x00000125       0x2e c:/progra~2/gnutoo~1/92019-~1/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libg.a(lib_a-exit.o)
+ .ARM.attributes
+                0x00000153       0x2e c:/progra~2/gnutoo~1/92019-~1/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libg.a(lib_a-impure.o)
+ .ARM.attributes
+                0x00000181       0x2e c:/progra~2/gnutoo~1/92019-~1/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libg.a(lib_a-init.o)
+ .ARM.attributes
+                0x000001af       0x2e c:/progra~2/gnutoo~1/92019-~1/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libg.a(lib_a-memset.o)
+ .ARM.attributes
+                0x000001dd       0x2e c:/progra~2/gnutoo~1/92019-~1/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libg.a(lib_a-__call_atexit.o)
+ .ARM.attributes
+                0x0000020b       0x2e c:/progra~2/gnutoo~1/92019-~1/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libg.a(lib_a-atexit.o)
+ .ARM.attributes
+                0x00000239       0x2e c:/progra~2/gnutoo~1/92019-~1/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libg.a(lib_a-fini.o)
+ .ARM.attributes
+                0x00000267       0x2e c:/progra~2/gnutoo~1/92019-~1/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libg.a(lib_a-lock.o)
+ .ARM.attributes
+                0x00000295       0x2e c:/progra~2/gnutoo~1/92019-~1/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libg.a(lib_a-__atexit.o)
+ .ARM.attributes
+                0x000002c3       0x2e c:/progra~2/gnutoo~1/92019-~1/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libnosys.a(_exit.o)
+ .ARM.attributes
+                0x000002f1       0x2e c:/progra~2/gnutoo~1/92019-~1/bin/../lib/gcc/arm-none-eabi/9.2.1/thumb/v7e-m/nofp/crtend.o
+ .ARM.attributes
+                0x0000031f       0x1e c:/progra~2/gnutoo~1/92019-~1/bin/../lib/gcc/arm-none-eabi/9.2.1/thumb/v7e-m/nofp/crtn.o
+
+.comment        0x00000000       0x79
+ .comment       0x00000000       0x79 CMakeFiles/mcu1-led-toggle.elf.dir/drivers/Src/stm32f407xx_gpio_driver.c.obj
+                                 0x7a (size before relaxing)
+ .comment       0x00000079       0x7a CMakeFiles/mcu1-led-toggle.elf.dir/drivers/Src/stm32f407xx_spi_driver.c.obj
+ .comment       0x00000079       0x7a CMakeFiles/mcu1-led-toggle.elf.dir/Src/002led_button.c.obj
+ .comment       0x00000079       0x7a CMakeFiles/mcu1-led-toggle.elf.dir/stm32_startup.c.obj
+
+.debug_info     0x00000000      0xccd
+ .debug_info    0x00000000      0x7c0 CMakeFiles/mcu1-led-toggle.elf.dir/drivers/Src/stm32f407xx_gpio_driver.c.obj
+ .debug_info    0x000007c0      0x336 CMakeFiles/mcu1-led-toggle.elf.dir/Src/002led_button.c.obj
+ .debug_info    0x00000af6      0x1d7 CMakeFiles/mcu1-led-toggle.elf.dir/stm32_startup.c.obj
+
+.debug_abbrev   0x00000000      0x3b5
+ .debug_abbrev  0x00000000      0x180 CMakeFiles/mcu1-led-toggle.elf.dir/drivers/Src/stm32f407xx_gpio_driver.c.obj
+ .debug_abbrev  0x00000180      0x12b CMakeFiles/mcu1-led-toggle.elf.dir/Src/002led_button.c.obj
+ .debug_abbrev  0x000002ab      0x10a CMakeFiles/mcu1-led-toggle.elf.dir/stm32_startup.c.obj
+
+.debug_loc      0x00000000      0x549
+ .debug_loc     0x00000000      0x44d CMakeFiles/mcu1-led-toggle.elf.dir/drivers/Src/stm32f407xx_gpio_driver.c.obj
+ .debug_loc     0x0000044d       0x23 CMakeFiles/mcu1-led-toggle.elf.dir/Src/002led_button.c.obj
+ .debug_loc     0x00000470       0xd9 CMakeFiles/mcu1-led-toggle.elf.dir/stm32_startup.c.obj
+
+.debug_aranges  0x00000000       0x60
+ .debug_aranges
+                0x00000000       0x20 CMakeFiles/mcu1-led-toggle.elf.dir/drivers/Src/stm32f407xx_gpio_driver.c.obj
+ .debug_aranges
+                0x00000020       0x20 CMakeFiles/mcu1-led-toggle.elf.dir/Src/002led_button.c.obj
+ .debug_aranges
+                0x00000040       0x20 CMakeFiles/mcu1-led-toggle.elf.dir/stm32_startup.c.obj
+
+.debug_ranges   0x00000000       0x30
+ .debug_ranges  0x00000000       0x18 CMakeFiles/mcu1-led-toggle.elf.dir/drivers/Src/stm32f407xx_gpio_driver.c.obj
+ .debug_ranges  0x00000018       0x18 CMakeFiles/mcu1-led-toggle.elf.dir/stm32_startup.c.obj
+
+.debug_line     0x00000000      0xa9b
+ .debug_line    0x00000000      0x69b CMakeFiles/mcu1-led-toggle.elf.dir/drivers/Src/stm32f407xx_gpio_driver.c.obj
+ .debug_line    0x0000069b        0x0 CMakeFiles/mcu1-led-toggle.elf.dir/drivers/Src/stm32f407xx_spi_driver.c.obj
+ .debug_line    0x0000069b      0x22d CMakeFiles/mcu1-led-toggle.elf.dir/Src/002led_button.c.obj
+ .debug_line    0x000008c8      0x1d3 CMakeFiles/mcu1-led-toggle.elf.dir/stm32_startup.c.obj
+
+.debug_str      0x00000000      0x64c
+ .debug_str     0x00000000      0x4e4 CMakeFiles/mcu1-led-toggle.elf.dir/drivers/Src/stm32f407xx_gpio_driver.c.obj
+                                0x541 (size before relaxing)
+ .debug_str     0x000004e4       0x56 CMakeFiles/mcu1-led-toggle.elf.dir/drivers/Src/stm32f407xx_spi_driver.c.obj
+                                0x128 (size before relaxing)
+ .debug_str     0x0000053a       0x60 CMakeFiles/mcu1-led-toggle.elf.dir/Src/002led_button.c.obj
+                                0x2f0 (size before relaxing)
+ .debug_str     0x0000059a       0xb2 CMakeFiles/mcu1-led-toggle.elf.dir/stm32_startup.c.obj
+                                0x233 (size before relaxing)
+
+.debug_frame    0x00000000      0x380
+ .debug_frame   0x00000000       0xd0 CMakeFiles/mcu1-led-toggle.elf.dir/drivers/Src/stm32f407xx_gpio_driver.c.obj
+ .debug_frame   0x000000d0       0x38 CMakeFiles/mcu1-led-toggle.elf.dir/Src/002led_button.c.obj
+ .debug_frame   0x00000108       0x38 CMakeFiles/mcu1-led-toggle.elf.dir/stm32_startup.c.obj
+ .debug_frame   0x00000140       0x28 c:/progra~2/gnutoo~1/92019-~1/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libg.a(lib_a-exit.o)
+ .debug_frame   0x00000168       0x2c c:/progra~2/gnutoo~1/92019-~1/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libg.a(lib_a-init.o)
+ .debug_frame   0x00000194       0x38 c:/progra~2/gnutoo~1/92019-~1/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libg.a(lib_a-memset.o)
+ .debug_frame   0x000001cc       0x5c c:/progra~2/gnutoo~1/92019-~1/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libg.a(lib_a-__call_atexit.o)
+ .debug_frame   0x00000228       0x20 c:/progra~2/gnutoo~1/92019-~1/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libg.a(lib_a-atexit.o)
+ .debug_frame   0x00000248       0x34 c:/progra~2/gnutoo~1/92019-~1/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libg.a(lib_a-fini.o)
+ .debug_frame   0x0000027c       0xb0 c:/progra~2/gnutoo~1/92019-~1/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libg.a(lib_a-lock.o)
+ .debug_frame   0x0000032c       0x34 c:/progra~2/gnutoo~1/92019-~1/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libg.a(lib_a-__atexit.o)
+ .debug_frame   0x00000360       0x20 c:/progra~2/gnutoo~1/92019-~1/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libnosys.a(_exit.o)

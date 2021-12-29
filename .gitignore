@@ -1,0 +1,9 @@
+.settings
+Debug/*
+stm32f407_drivers Debug.launch
+stm32f4xx_drivers Debug.launch
+.cproject
+.project
+cmake_debug
+Release/*
+.idea/

@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6"/>
+	<Project>
+		<Option title="mcu1-led-toggle"/>
+		<Option makefile_is_custom="1"/>
+		<Option compiler="gcc"/>
+		<Option virtualFolders="CMake Files\;"/>
+		<Build>
+			<Target title="all">
+				<Option working_dir="F:/Learning/embedded/MCU1/mcu1/stm32f4xx_drivers/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="C:/mingw64/bin/mingw32-make.exe -f &quot;F:/Learning/embedded/MCU1/mcu1/stm32f4xx_drivers/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="C:/mingw64/bin/mingw32-make.exe -f &quot;F:/Learning/embedded/MCU1/mcu1/stm32f4xx_drivers/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/mingw64/bin/mingw32-make.exe -f &quot;F:/Learning/embedded/MCU1/mcu1/stm32f4xx_drivers/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/mingw64/bin/mingw32-make.exe -f &quot;F:/Learning/embedded/MCU1/mcu1/stm32f4xx_drivers/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="rebuild_cache">
+				<Option working_dir="F:/Learning/embedded/MCU1/mcu1/stm32f4xx_drivers/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="C:/mingw64/bin/mingw32-make.exe -f &quot;F:/Learning/embedded/MCU1/mcu1/stm32f4xx_drivers/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="C:/mingw64/bin/mingw32-make.exe -f &quot;F:/Learning/embedded/MCU1/mcu1/stm32f4xx_drivers/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/mingw64/bin/mingw32-make.exe -f &quot;F:/Learning/embedded/MCU1/mcu1/stm32f4xx_drivers/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/mingw64/bin/mingw32-make.exe -f &quot;F:/Learning/embedded/MCU1/mcu1/stm32f4xx_drivers/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="mcu1-led-toggle.elf">
+				<Option output="F:/Learning/embedded/MCU1/mcu1/stm32f4xx_drivers/cmake-build-debug/mcu1-led-toggle.elf" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="F:/Learning/embedded/MCU1/mcu1/stm32f4xx_drivers/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="F:/Learning/embedded/MCU1/mcu1/stm32f4xx_drivers/drivers/Inc"/>
+					<Add directory="F:/Learning/embedded/MCU1/mcu1/stm32f4xx_drivers/drivers/Src"/>
+					<Add directory="F:/Learning/embedded/MCU1/mcu1/stm32f4xx_drivers/Src"/>
+					<Add directory="c:\program files (x86)\gnu tools arm embedded\9 2019-q4-major\bin\../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/include/c++/9.2.1"/>
+					<Add directory="c:\program files (x86)\gnu tools arm embedded\9 2019-q4-major\bin\../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/include/c++/9.2.1/arm-none-eabi"/>
+					<Add directory="c:\program files (x86)\gnu tools arm embedded\9 2019-q4-major\bin\../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/include/c++/9.2.1/backward"/>
+					<Add directory="c:\program files (x86)\gnu tools arm embedded\9 2019-q4-major\bin\../lib/gcc/arm-none-eabi/9.2.1/include"/>
+					<Add directory="c:\program files (x86)\gnu tools arm embedded\9 2019-q4-major\bin\../lib/gcc/arm-none-eabi/9.2.1/include-fixed"/>
+					<Add directory="c:\program files (x86)\gnu tools arm embedded\9 2019-q4-major\bin\../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="C:/mingw64/bin/mingw32-make.exe -f &quot;F:/Learning/embedded/MCU1/mcu1/stm32f4xx_drivers/cmake-build-debug/Makefile&quot;  VERBOSE=1 mcu1-led-toggle.elf"/>
+					<CompileFile command="C:/mingw64/bin/mingw32-make.exe -f &quot;F:/Learning/embedded/MCU1/mcu1/stm32f4xx_drivers/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/mingw64/bin/mingw32-make.exe -f &quot;F:/Learning/embedded/MCU1/mcu1/stm32f4xx_drivers/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/mingw64/bin/mingw32-make.exe -f &quot;F:/Learning/embedded/MCU1/mcu1/stm32f4xx_drivers/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="mcu1-led-toggle.elf/fast">
+				<Option output="F:/Learning/embedded/MCU1/mcu1/stm32f4xx_drivers/cmake-build-debug/mcu1-led-toggle.elf" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="F:/Learning/embedded/MCU1/mcu1/stm32f4xx_drivers/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="F:/Learning/embedded/MCU1/mcu1/stm32f4xx_drivers/drivers/Inc"/>
+					<Add directory="F:/Learning/embedded/MCU1/mcu1/stm32f4xx_drivers/drivers/Src"/>
+					<Add directory="F:/Learning/embedded/MCU1/mcu1/stm32f4xx_drivers/Src"/>
+					<Add directory="c:\program files (x86)\gnu tools arm embedded\9 2019-q4-major\bin\../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/include/c++/9.2.1"/>
+					<Add directory="c:\program files (x86)\gnu tools arm embedded\9 2019-q4-major\bin\../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/include/c++/9.2.1/arm-none-eabi"/>
+					<Add directory="c:\program files (x86)\gnu tools arm embedded\9 2019-q4-major\bin\../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/include/c++/9.2.1/backward"/>
+					<Add directory="c:\program files (x86)\gnu tools arm embedded\9 2019-q4-major\bin\../lib/gcc/arm-none-eabi/9.2.1/include"/>
+					<Add directory="c:\program files (x86)\gnu tools arm embedded\9 2019-q4-major\bin\../lib/gcc/arm-none-eabi/9.2.1/include-fixed"/>
+					<Add directory="c:\program files (x86)\gnu tools arm embedded\9 2019-q4-major\bin\../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="C:/mingw64/bin/mingw32-make.exe -f &quot;F:/Learning/embedded/MCU1/mcu1/stm32f4xx_drivers/cmake-build-debug/Makefile&quot;  VERBOSE=1 mcu1-led-toggle.elf/fast"/>
+					<CompileFile command="C:/mingw64/bin/mingw32-make.exe -f &quot;F:/Learning/embedded/MCU1/mcu1/stm32f4xx_drivers/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/mingw64/bin/mingw32-make.exe -f &quot;F:/Learning/embedded/MCU1/mcu1/stm32f4xx_drivers/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/mingw64/bin/mingw32-make.exe -f &quot;F:/Learning/embedded/MCU1/mcu1/stm32f4xx_drivers/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="edit_cache">
+				<Option working_dir="F:/Learning/embedded/MCU1/mcu1/stm32f4xx_drivers/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="C:/mingw64/bin/mingw32-make.exe -f &quot;F:/Learning/embedded/MCU1/mcu1/stm32f4xx_drivers/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="C:/mingw64/bin/mingw32-make.exe -f &quot;F:/Learning/embedded/MCU1/mcu1/stm32f4xx_drivers/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/mingw64/bin/mingw32-make.exe -f &quot;F:/Learning/embedded/MCU1/mcu1/stm32f4xx_drivers/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/mingw64/bin/mingw32-make.exe -f &quot;F:/Learning/embedded/MCU1/mcu1/stm32f4xx_drivers/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Unit filename="F:/Learning/embedded/MCU1/mcu1/stm32f4xx_drivers/Src/002led_button.c">
+			<Option target="mcu1-led-toggle.elf"/>
+		</Unit>
+		<Unit filename="F:/Learning/embedded/MCU1/mcu1/stm32f4xx_drivers/drivers/Inc/stm32f407xx.h">
+			<Option target="mcu1-led-toggle.elf"/>
+		</Unit>
+		<Unit filename="F:/Learning/embedded/MCU1/mcu1/stm32f4xx_drivers/drivers/Inc/stm32f407xx_gpio_driver.h">
+			<Option target="mcu1-led-toggle.elf"/>
+		</Unit>
+		<Unit filename="F:/Learning/embedded/MCU1/mcu1/stm32f4xx_drivers/drivers/Inc/stm32f407xx_spi_driver.h">
+			<Option target="mcu1-led-toggle.elf"/>
+		</Unit>
+		<Unit filename="F:/Learning/embedded/MCU1/mcu1/stm32f4xx_drivers/drivers/Src/stm32f407xx_gpio_driver.c">
+			<Option target="mcu1-led-toggle.elf"/>
+		</Unit>
+		<Unit filename="F:/Learning/embedded/MCU1/mcu1/stm32f4xx_drivers/drivers/Src/stm32f407xx_spi_driver.c">
+			<Option target="mcu1-led-toggle.elf"/>
+		</Unit>
+		<Unit filename="F:/Learning/embedded/MCU1/mcu1/stm32f4xx_drivers/stm32_startup.c">
+			<Option target="mcu1-led-toggle.elf"/>
+		</Unit>
+		<Unit filename="F:/Learning/embedded/MCU1/mcu1/stm32f4xx_drivers/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+		<Unit filename="F:/Learning/embedded/MCU1/mcu1/stm32f4xx_drivers/arm-none-eabi-gcc.cmake">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+	</Project>
+</CodeBlocks_project_file>
