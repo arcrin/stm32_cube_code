@@ -25,25 +25,25 @@ int main() {
     GPIO_PeriClockControl(GPIOD, ENABLE); // this needs to be called before GPIO_Init
     GPIO_Init(&ld4_gpio_handle);
 
-//    b1_gpio_handle.pGPIOx = GPIOA;
-//    b1_gpio_handle.GPIO_PinConfig.GPIO_PinNumber = GPIO_PIN_NO_0;
-//    b1_gpio_handle.GPIO_PinConfig.GPIO_PinMode = GPIO_IN_MODE;
-//    b1_gpio_handle.GPIO_PinConfig.GPIO_PinSpeed = GPIO_SPEED_HIGH;
-//    b1_gpio_handle.GPIO_PinConfig.GPIO_PinPuPdControl = GPIO_NO_PUPD;
-//    GPIO_PeriClockControl(GPIOA, ENABLE);
-//    GPIO_Init(&b1_gpio_handle);
-//
-//    while (1) {
-//        if(GPIO_ReadFromInputPin(GPIOA, GPIO_PIN_NO_0) == ENABLE){
-//            delay();
-//            GPIO_ToggleOutputPin(ld4_gpio_handle.pGPIOx, ld4_gpio_handle.GPIO_PinConfig.GPIO_PinNumber);
-//        }
-//    }
+    b1_gpio_handle.pGPIOx = GPIOA;
+    b1_gpio_handle.GPIO_PinConfig.GPIO_PinNumber = GPIO_PIN_NO_0;
+    b1_gpio_handle.GPIO_PinConfig.GPIO_PinMode = GPIO_IN_MODE;
+    b1_gpio_handle.GPIO_PinConfig.GPIO_PinSpeed = GPIO_SPEED_HIGH;
+    b1_gpio_handle.GPIO_PinConfig.GPIO_PinPuPdControl = GPIO_NO_PUPD;
+    GPIO_PeriClockControl(GPIOA, ENABLE);
+    GPIO_Init(&b1_gpio_handle);
 
-
-    while(1){
-        GPIO_ToggleOutputPin(ld4_gpio_handle.pGPIOx, ld4_gpio_handle.GPIO_PinConfig.GPIO_PinNumber);
-        delay();
+    while (1) {
+        if(GPIO_ReadFromInputPin(GPIOA, GPIO_PIN_NO_0) == ENABLE){
+            delay();
+            GPIO_ToggleOutputPin(ld4_gpio_handle.pGPIOx, ld4_gpio_handle.GPIO_PinConfig.GPIO_PinNumber);
+        }
     }
+
+
+//    while(1){
+//        GPIO_ToggleOutputPin(ld4_gpio_handle.pGPIOx, ld4_gpio_handle.GPIO_PinConfig.GPIO_PinNumber);
+//        delay();
+//    }
 
 }

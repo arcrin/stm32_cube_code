@@ -110,7 +110,7 @@ void GPIO_Init(pGPIO_Handle_t pGPIOHandle){
     //1. configure the mode of gpio pin
     if (pGPIOHandle -> GPIO_PinConfig.GPIO_PinMode <= GPIO_ANALOG_MODE) {
         pGPIOHandle->pGPIOx->MODER &=
-                (0x3 << (pGPIOHandle->GPIO_PinConfig.GPIO_PinNumber * 2));
+                ~(0x3 << (pGPIOHandle->GPIO_PinConfig.GPIO_PinNumber * 2));
         pGPIOHandle->pGPIOx->MODER |=
                 (pGPIOHandle->GPIO_PinConfig.GPIO_PinMode << (pGPIOHandle->GPIO_PinConfig.GPIO_PinNumber * 2));
     } else{}
